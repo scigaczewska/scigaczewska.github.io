@@ -1,0 +1,49 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 6, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
+.pic-title {
+  color: white;
+}
+
+/* line 10, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
+.pic-description {
+  color: white;
+}
+
+/* line 14, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
+.project-details {
+  font-weight: bold;
+}
+
+/* line 18, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
+.project-description {
+  text-align: justify;
+}
+
+/* line 22, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
+.footer {
+  position: relative;
+  height: 1em;
+}
+
+/* line 27, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
+.legal {
+  position: absolute;
+  bottom: 2em;
+  right: 2em;
+  color: #a1a1a1;
+  font-size: 80%;
+}
+
+/* line 35, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
+html, body {
+  height: 100%;
+  padding-bottom: 1em;
+}
+
+/* line 40, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
+.container {
+  min-height: 100%;
+}
