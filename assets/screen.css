@@ -47,3 +47,18 @@ html, body {
 .container {
   min-height: 100%;
 }
+
+/* line 44, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
+.header {
+  position: relative;
+  background-color: transparent;
+}
+
+/* line 49, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
+.language-nav {
+  position: absolute;
+  right: 2em;
+  top: 1em;
+  color: #a1a1a1;
+  font-size: 80%;
+}

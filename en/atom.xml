@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>TASka</title>
+ <link href="http://scigaczewska.github.io/atom.xml" rel="self"/>
+ <link href="http://scigaczewska.github.io/"/>
+ <updated>2014-08-23T19:30:45+02:00</updated>
+ <id>http://scigaczewska.github.io</id>
+ <author>
+   <name>Alex Gonzalez</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Example blog post</title>
+   <link href="http://scigaczewska.github.io/_i18n/en/2014/01/01/example-content/"/>
+   <updated>2014-01-01T00:00:00+01:00</updated>
+   <id>http://scigaczewska.github.io/_i18n/en/2014/01/01/example-content</id>
+   <content type="html">&lt;p&gt;This is an example blog post&lt;/p&gt;
+
+&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+
+&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;
+&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;
+&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>

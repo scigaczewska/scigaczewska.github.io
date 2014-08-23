@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+Alex Gonzalez -- @aggurio
+Logroño, Spain
+
+Standards:    HTML5, CSS3
+Components:   Jekyll, Poole with Hyde theme, compass, zocial, Jekyll Asset Pipeline, jQuery, Pure.css, FlexSlider
+
+It uses the jquery cookiebar code for the EU cookie directive from http://www.primebox.co.uk/.

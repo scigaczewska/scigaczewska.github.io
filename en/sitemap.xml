@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://www.taska.es/</loc>
+    <changefreq>Monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.taska.es/concursos/</loc>
+    <changefreq>Monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.taska.es/estudio/</loc>
+    <changefreq>Monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.taska.es/2014/08/17/project-template/</loc>
+    <changefreq>Monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.taska.es/proyectos/</loc>
+    <changefreq>Monthly</changefreq>
+    <image:image>
+      <image:loc>http://www.taska.es/assets/images/slide1.jpg</image:loc>
+      <image:title>Pic</image:title>
+      <image:caption>Pic</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.taska.es/assets/images/slide2.jpg</image:loc>
+      <image:title>Pic</image:title>
+      <image:caption>Pic</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.taska.es/assets/images/slide3.jpg</image:loc>
+      <image:title>Pic</image:title>
+      <image:caption>Pic</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.taska.es/servicios/</loc>
+    <changefreq>Monthly</changefreq>
+  </url>
+</urlset>
+<!--<guid value="62d4fcb2-60e0-4654-9d1c-b43add2d2847" />-->
