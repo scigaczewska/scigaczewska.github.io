@@ -1,34 +1,37 @@
 /* Welcome to Compass. Use this file to define print styles.
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" /> */
-/* line 5, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 6, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
 .pic-title {
   color: white;
 }
 
-/* line 9, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 10, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
 .pic-description {
   color: white;
 }
 
-/* line 13, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 14, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
 .project-details {
   font-weight: bold;
 }
 
-/* line 17, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 18, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
 .project-description {
   text-align: justify;
 }
 
-/* line 21, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 22, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
 .footer {
   position: relative;
   height: 1em;
-  display: none;
 }
 
-/* line 27, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 27, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
 .legal {
   position: absolute;
   bottom: 2em;
@@ -37,25 +40,24 @@
   font-size: 80%;
 }
 
-/* line 35, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 35, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
 html, body {
   height: 100%;
   padding-bottom: 1em;
 }
 
-/* line 40, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 40, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
 .container {
   min-height: 100%;
 }
 
-/* line 44, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 44, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
 .header {
   position: relative;
   background-color: transparent;
-  display: none;
 }
 
-/* line 50, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 49, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
 .language-nav {
   position: absolute;
   right: 2em;
@@ -64,27 +66,32 @@ html, body {
   font-size: 80%;
 }
 
-/* line 58, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 57, ../../../../../../projects/scigaczewska/hyde/_sass/screen.scss */
 .legal-terms {
   font-size: 75%;
 }
 
-/* line 62, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
-.legal-terms h1, h2, h3, h4, h5, h6 {
-  font-size: 95%;
+/* line 7, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+.footer {
+  display: none;
 }
 
-/* line 66, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 11, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+.header {
+  display: none;
+}
+
+/* line 15, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
 .pagination-item {
   display: none;
 }
 
-/* line 70, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 19, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
 a[href^="#"]:after {
   display: none;
 }
 
-/* line 74, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
+/* line 23, ../../../../../../projects/scigaczewska/hyde/_sass/print.scss */
 a[href^="http://"]:after, a[href^="https://"]:after {
   content: " (" attr(href) ")";
   font-size: 90%;
