@@ -1,13 +1,12 @@
 # About this project
 
-This is a web site designed by [Alex Gonzalez](https://twitter.com/aggurio) for TASka, Taller Alicja Scigaczewska.
+This is a web site designed by [Alex Gonzalez](https://twitter.com/aggurio).
 
 It is based on [Jekyll](http://jekyllrb.com), using [Poole](http://getpoole.com) and the Hyde template.
 
 The following are also used:
 
 - compass
-- zocial
 - Jekyll Asset Pipeline
 - jQuery
 - Pure.css
@@ -19,7 +18,7 @@ To build and launch the web server at http://localhost:4000/:
 
     bundle exec jekyll serve --detach --watch
 
-From then on you can rebuild with:
+You can rebuild with:
 
     bundle exec jekyll build --watch
 

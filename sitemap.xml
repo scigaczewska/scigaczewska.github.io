@@ -23,10 +23,14 @@
   
     
     
+    
+  
+    
+    
     <url>
-      <loc>http://scigaczewska.github.io/proyectos/proyecto-ejemplo/</loc>
+      <loc>http://scigaczewska.github.io/concursos/</loc>
       
-        <lastmod>2014-08-26T23:58:27+02:00</lastmod>
+        <lastmod>2014-08-30T23:00:52+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -35,6 +39,10 @@
         <priority>0.3</priority>
       
     </url>
+    
+    
+  
+    
     
     
   
@@ -43,7 +51,59 @@
     <url>
       <loc>http://scigaczewska.github.io/</loc>
       
-        <lastmod>2014-08-26T23:58:27+02:00</lastmod>
+        <lastmod>2014-08-30T23:00:52+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    
+  
+    
+    
+    <url>
+      <loc>http://scigaczewska.github.io/trabajos/</loc>
+      
+        <lastmod>2014-08-30T23:00:52+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    
+  
+    
+  
+    
+    
+    
+  
+    
+    
+    
+  
+    
+    
+    <url>
+      <loc>http://scigaczewska.github.io/trabajos/trabajo-plantilla/</loc>
+      
+        <lastmod>2014-08-30T23:00:52+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -58,9 +118,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/concursos/</loc>
+      <loc>http://scigaczewska.github.io/sobre/</loc>
       
-        <lastmod>2014-08-26T23:58:27+02:00</lastmod>
+        <lastmod>2014-08-30T23:00:52+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -77,7 +137,7 @@
     <url>
       <loc>http://scigaczewska.github.io/blog/</loc>
       
-        <lastmod>2014-08-26T23:58:27+02:00</lastmod>
+        <lastmod>2014-08-30T23:00:52+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -92,28 +152,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/proyectos/proyecto-ejemplo-1/</loc>
+      <loc>http://scigaczewska.github.io/trabajos/trabajo-plantilla-1/</loc>
       
-        <lastmod>2014-08-26T23:58:27+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-    
-  
-    
-  
-    
-    
-    <url>
-      <loc>http://scigaczewska.github.io/estudio/</loc>
-      
-        <lastmod>2014-08-26T23:58:27+02:00</lastmod>
+        <lastmod>2014-08-30T23:00:52+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -127,18 +168,6 @@
   
     
   
-    
-    
-    
-  
-    
-    
-    
-  
-    
-  
-    
-    
     
   
     
@@ -146,7 +175,7 @@
     <url>
       <loc>http://scigaczewska.github.io/servicios/</loc>
       
-        <lastmod>2014-08-26T23:58:27+02:00</lastmod>
+        <lastmod>2014-08-30T23:00:52+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -155,35 +184,6 @@
         <priority>0.3</priority>
       
     </url>
-    
-    
-  
-    
-    
-    
-  
-    
-    
-    <url>
-      <loc>http://scigaczewska.github.io/proyectos/</loc>
-      
-        <lastmod>2014-08-26T23:58:27+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-    
-  
-    
-    
-    
-  
-    
     
     
   
