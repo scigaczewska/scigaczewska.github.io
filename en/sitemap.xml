@@ -23,6 +23,19 @@
   
     
     
+    <url>
+      <loc>http://scigaczewska.github.io/</loc>
+      
+        <lastmod>2014-09-08T23:41:14+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
     
   
     
@@ -30,7 +43,7 @@
     <url>
       <loc>http://scigaczewska.github.io/work/JosefWybickiPlaza/</loc>
       
-        <lastmod>2014-09-06T11:57:14+02:00</lastmod>
+        <lastmod>2014-09-08T23:41:14+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -47,7 +60,7 @@
     <url>
       <loc>http://scigaczewska.github.io/work/</loc>
       
-        <lastmod>2014-09-06T11:57:14+02:00</lastmod>
+        <lastmod>2014-09-08T23:41:14+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -62,9 +75,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/work/MusicCentreKrakow/</loc>
+      <loc>http://scigaczewska.github.io/work/work-template/</loc>
       
-        <lastmod>2014-09-06T11:57:14+02:00</lastmod>
+        <lastmod>2014-09-08T23:41:14+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -73,15 +86,19 @@
         <priority>0.3</priority>
       
     </url>
+    
+    
+  
+    
     
     
   
     
     
     <url>
-      <loc>http://scigaczewska.github.io/</loc>
+      <loc>http://scigaczewska.github.io/services/</loc>
       
-        <lastmod>2014-09-06T11:57:14+02:00</lastmod>
+        <lastmod>2014-09-08T23:41:14+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -90,10 +107,6 @@
         <priority>0.3</priority>
       
     </url>
-    
-    
-  
-    
     
     
   
@@ -102,7 +115,7 @@
     <url>
       <loc>http://scigaczewska.github.io/trabajos/JosefWybickiPlaza/</loc>
       
-        <lastmod>2014-09-06T11:57:14+02:00</lastmod>
+        <lastmod>2014-09-08T23:41:14+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -119,6 +132,23 @@
     
   
     
+    
+    
+  
+    
+    
+    <url>
+      <loc>http://scigaczewska.github.io/work/work-template-1/</loc>
+      
+        <lastmod>2014-09-08T23:41:14+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
     
     
   
@@ -129,7 +159,7 @@
     <url>
       <loc>http://scigaczewska.github.io/about/</loc>
       
-        <lastmod>2014-09-06T11:57:14+02:00</lastmod>
+        <lastmod>2014-09-08T23:41:14+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -146,7 +176,7 @@
     <url>
       <loc>http://scigaczewska.github.io/competitions/</loc>
       
-        <lastmod>2014-09-06T11:57:14+02:00</lastmod>
+        <lastmod>2014-09-08T23:41:14+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -156,12 +186,6 @@
       
     </url>
     
-    
-  
-    
-    
-    
-  
     
   
     
@@ -171,9 +195,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/work/work-template-1/</loc>
+      <loc>http://scigaczewska.github.io/work/SingleFamilyI/</loc>
       
-        <lastmod>2014-09-06T11:57:14+02:00</lastmod>
+        <lastmod>2014-09-08T23:41:14+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -182,6 +206,16 @@
         <priority>0.3</priority>
       
     </url>
+    
+    
+  
+    
+  
+    
+    
+    
+  
+    
     
     
   
@@ -190,7 +224,7 @@
     <url>
       <loc>http://scigaczewska.github.io/blog/</loc>
       
-        <lastmod>2014-09-06T11:57:14+02:00</lastmod>
+        <lastmod>2014-09-08T23:41:14+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -205,9 +239,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/services/</loc>
+      <loc>http://scigaczewska.github.io/work/MusicCentreKrakow/</loc>
       
-        <lastmod>2014-09-06T11:57:14+02:00</lastmod>
+        <lastmod>2014-09-08T23:41:14+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -222,19 +256,6 @@
     
   
     
-    
-    <url>
-      <loc>http://scigaczewska.github.io/work/work-template/</loc>
-      
-        <lastmod>2014-09-06T11:57:14+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
     
     
   
