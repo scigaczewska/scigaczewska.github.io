@@ -7,6 +7,7 @@ REV=`git rev-parse HEAD`
 echo "Deploying from $DIR from revision $REV"
 
 bundle exec jekyll build
+compass compile -e production --force
 
 pushd .
 cd /tmp
