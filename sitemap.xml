@@ -4,7 +4,7 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/_i18n/es/2014/01/01/ejemplo-entrada/</loc>
+      <loc>http://www.taska.es/_i18n/es/2014/01/01/ejemplo-entrada/</loc>
       
         <lastmod>2014-01-01T00:00:00+01:00</lastmod>
       
@@ -24,9 +24,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/sobre/</loc>
+      <loc>http://www.taska.es/sobre/</loc>
       
-        <lastmod>2014-09-14T20:30:49+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:43+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -57,47 +57,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/</loc>
+      <loc>http://www.taska.es/</loc>
       
-        <lastmod>2014-09-14T20:30:49+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-    
-  
-    
-    
-    <url>
-      <loc>http://scigaczewska.github.io/trabajos/ViviendaUnifamiliarII/</loc>
-      
-        <lastmod>2014-09-14T20:30:49+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-    
-  
-    
-    
-    
-  
-    
-    
-    <url>
-      <loc>http://scigaczewska.github.io/trabajos/</loc>
-      
-        <lastmod>2014-09-14T20:30:49+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:43+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -112,9 +74,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/trabajos/trabajo-plantilla/</loc>
+      <loc>http://www.taska.es/trabajos/ViviendaUnifamiliarII/</loc>
       
-        <lastmod>2014-09-14T20:30:49+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:43+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -131,21 +93,11 @@
     
   
     
-  
-    
-    
-    
-  
-    
-    
-    
-  
-    
     
     <url>
-      <loc>http://scigaczewska.github.io/trabajos/CentroMusicaCracovia/</loc>
+      <loc>http://www.taska.es/trabajos/</loc>
       
-        <lastmod>2014-09-14T20:30:49+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:43+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -160,9 +112,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/trabajos/trabajo-plantilla-1/</loc>
+      <loc>http://www.taska.es/trabajos/trabajo-plantilla/</loc>
       
-        <lastmod>2014-09-14T20:30:49+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:43+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -182,10 +134,18 @@
   
     
     
+    
+  
+    
+    
+    
+  
+    
+    
     <url>
-      <loc>http://scigaczewska.github.io/trabajos/ViviendaUnifamiliarI/</loc>
+      <loc>http://www.taska.es/trabajos/CentroMusicaCracovia/</loc>
       
-        <lastmod>2014-09-14T20:30:49+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:43+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -199,14 +159,10 @@
   
     
     
-    
-  
-    
-    
     <url>
-      <loc>http://scigaczewska.github.io/blog/</loc>
+      <loc>http://www.taska.es/trabajos/trabajo-plantilla-1/</loc>
       
-        <lastmod>2014-09-14T20:30:49+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:43+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -227,9 +183,53 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/concursos/</loc>
+      <loc>http://www.taska.es/trabajos/ViviendaUnifamiliarI/</loc>
       
-        <lastmod>2014-09-14T20:30:49+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:43+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    
+  
+    
+    
+    <url>
+      <loc>http://www.taska.es/blog/</loc>
+      
+        <lastmod>2014-09-15T00:04:43+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    
+  
+    
+  
+    
+    
+    <url>
+      <loc>http://www.taska.es/concursos/</loc>
+      
+        <lastmod>2014-09-15T00:04:43+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -244,9 +244,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/servicios/</loc>
+      <loc>http://www.taska.es/servicios/</loc>
       
-        <lastmod>2014-09-14T20:30:49+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:43+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

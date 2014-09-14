@@ -4,7 +4,7 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/_i18n/en/2014/01/01/example-content/</loc>
+      <loc>http://www.taska.es/_i18n/en/2014/01/01/example-content/</loc>
       
         <lastmod>2014-01-01T00:00:00+01:00</lastmod>
       
@@ -28,26 +28,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/work/JosefWybickiPlaza/</loc>
+      <loc>http://www.taska.es/work/JosefWybickiPlaza/</loc>
       
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-    
-  
-    
-    
-    <url>
-      <loc>http://scigaczewska.github.io/work/</loc>
-      
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -62,26 +45,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/work/SingleFamilyII/</loc>
+      <loc>http://www.taska.es/work/</loc>
       
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-    
-  
-    
-    
-    <url>
-      <loc>http://scigaczewska.github.io/work/work-template/</loc>
-      
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -96,9 +62,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/</loc>
+      <loc>http://www.taska.es/work/SingleFamilyII/</loc>
       
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -112,14 +78,27 @@
   
     
     
+    <url>
+      <loc>http://www.taska.es/work/work-template/</loc>
+      
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
     
   
     
     
     <url>
-      <loc>http://scigaczewska.github.io/trabajos/JosefWybickiPlaza/</loc>
+      <loc>http://www.taska.es/</loc>
       
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -137,50 +116,10 @@
   
     
     
-    
-  
-    
-    
     <url>
-      <loc>http://scigaczewska.github.io/work/work-template-1/</loc>
+      <loc>http://www.taska.es/trabajos/JosefWybickiPlaza/</loc>
       
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-    
-  
-    
-  
-    
-    
-    <url>
-      <loc>http://scigaczewska.github.io/about/</loc>
-      
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-    
-  
-    
-    
-    <url>
-      <loc>http://scigaczewska.github.io/competitions/</loc>
-      
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -203,9 +142,70 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/work/SingleFamilyI/</loc>
+      <loc>http://www.taska.es/work/work-template-1/</loc>
       
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+  
+    
+    
+    <url>
+      <loc>http://www.taska.es/about/</loc>
+      
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    <url>
+      <loc>http://www.taska.es/competitions/</loc>
+      
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    
+  
+    
+    
+    
+  
+    
+    
+    <url>
+      <loc>http://www.taska.es/work/SingleFamilyI/</loc>
+      
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -226,26 +226,9 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/work/MusicCentreKrakow/</loc>
+      <loc>http://www.taska.es/work/MusicCentreKrakow/</loc>
       
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-    
-  
-    
-    
-    <url>
-      <loc>http://scigaczewska.github.io/blog/</loc>
-      
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -260,9 +243,26 @@
     
     
     <url>
-      <loc>http://scigaczewska.github.io/services/</loc>
+      <loc>http://www.taska.es/blog/</loc>
       
-        <lastmod>2014-09-14T20:30:56+02:00</lastmod>
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    <url>
+      <loc>http://www.taska.es/services/</loc>
+      
+        <lastmod>2014-09-15T00:04:50+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

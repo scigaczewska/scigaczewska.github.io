@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>TASka</title>
- <link href="http://scigaczewska.github.io/atom.xml" rel="self"/>
- <link href="http://scigaczewska.github.io/"/>
- <updated>2014-09-14T20:30:56+02:00</updated>
- <id>http://scigaczewska.github.io</id>
+ <link href="http://www.taska.es/atom.xml" rel="self"/>
+ <link href="http://www.taska.es/"/>
+ <updated>2014-09-15T00:04:50+02:00</updated>
+ <id>http://www.taska.es</id>
  <author>
-   <name>Alex Gonzalez</name>
-   <email>alex@lindusembedded.com</email>
+   <name>Alicja Scigaczewska</name>
+   <email>alicja@taska.es</email>
  </author>
 
  
  <entry>
    <title>Example blog post</title>
-   <link href="http://scigaczewska.github.io/_i18n/en/2014/01/01/example-content/"/>
+   <link href="http://www.taska.es/_i18n/en/2014/01/01/example-content/"/>
    <updated>2014-01-01T00:00:00+01:00</updated>
-   <id>http://scigaczewska.github.io/_i18n/en/2014/01/01/example-content</id>
+   <id>http://www.taska.es/_i18n/en/2014/01/01/example-content</id>
    <content type="html">&lt;p&gt;This is an example blog post&lt;/p&gt;
 
 &lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
