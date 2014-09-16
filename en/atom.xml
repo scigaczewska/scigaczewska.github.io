@@ -4,7 +4,7 @@
  <title>TASka</title>
  <link href="http://www.taska.es/atom.xml" rel="self"/>
  <link href="http://www.taska.es/"/>
- <updated>2014-09-15T01:12:14+02:00</updated>
+ <updated>2014-09-16T22:58:32+02:00</updated>
  <id>http://www.taska.es</id>
  <author>
    <name>Alicja Scigaczewska</name>
@@ -26,6 +26,50 @@
 &lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;
 &lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;
 &lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Serpentina Hammock</title>
+   <link href="http://www.taska.es/_i18n/en/2011/05/01/serpentina/"/>
+   <updated>2011-05-01T00:00:00+02:00</updated>
+   <id>http://www.taska.es/_i18n/en/2011/05/01/serpentina</id>
+   <content type="html">&lt;p&gt;Just arrived to La Rioja I was surprised to discover the publicly funded art competitions organized by the regional goverment to promote youth creativity.&lt;/p&gt;
+
+&lt;p&gt;And the attraction of the world of wine on a foraigner like myself encouraged me to take part in one of them, &lt;a href=&quot;http://www.abc.es/agencias/noticia.asp?noticia=951439&quot; title=&quot;Certamen Barricas con Arte&quot;&gt;Art and Barrels&lt;/a&gt;, organized by the &lt;a href=&quot;http://www.irj.es/&quot; title=&quot;Instituto Riojano de la Juventud&quot;&gt;Riojan Youth Institute (IRJ)&lt;/a&gt;, &lt;a href=&quot;http://ijalba.com/&quot; title=&quot;Viña Ijalba Winery&quot;&gt;Viña Ijalba Winery&lt;/a&gt; and the &lt;a href=&quot;http://www.museowurth.es/&quot; title=&quot;Würth Museum&quot;&gt;Würth Museum&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image-centered&quot; src=&quot;/assets/images/Serpentina/serpentina-2.jpg&quot; alt=&quot;Art and Barrels in the Rioja Newspaper&quot; title=&quot;Art and Barrels in the Rioja Newspaper&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eight were the finalists selected to build their designs, and in the coming months they were exhibited in the Würth Museum, the opening ceremony for the Youth Center in Calahorra, and Viña Ijalba Winery, who finally kept the works.&lt;/p&gt;
+
+&lt;div class=&quot;flexslider&quot;&gt;
+	&lt;ul class=&quot;slides&quot;&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/Serpentina/serpentina-1.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/Serpentina/serpentina-3.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/Serpentina/serpentina-4.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/Serpentina/serpentina-5.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/Serpentina/serpentina-6.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;My design, the Serpentina Hammock, tried to mix wood and iron, wine and metal, roughness and functionality. It is meant to be an outside feature, ideal to be placed between vines, at the shadow of a millenary olive tree.&lt;/p&gt;
 
 </content>
  </entry>
