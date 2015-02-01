@@ -4,7 +4,7 @@
  <title>TASka</title>
  <link href="http://www.taska.es/atom.xml" rel="self"/>
  <link href="http://www.taska.es/"/>
- <updated>2014-11-09T23:54:13+01:00</updated>
+ <updated>2015-02-01T17:27:42+01:00</updated>
  <id>http://www.taska.es</id>
  <author>
    <name>Alicja Scigaczewska</name>
@@ -42,10 +42,6 @@
 		
 		&lt;li&gt;
 		&lt;img src=&quot;/assets/images/Serpentina/serpentina-5.jpg&quot; /&gt;
-		&lt;/li&gt;
-		
-		&lt;li&gt;
-		&lt;img src=&quot;/assets/images/Serpentina/serpentina-6.jpg&quot; /&gt;
 		&lt;/li&gt;
 		
 	&lt;/ul&gt;
