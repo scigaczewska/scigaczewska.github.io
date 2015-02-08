@@ -23,19 +23,6 @@
   
     
     
-    <url>
-      <loc>http://www.taska.es/work/WaterSportsCentreGizycko/</loc>
-      
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
     
   
     
@@ -43,7 +30,7 @@
     <url>
       <loc>http://www.taska.es/work/JosefWybickiPlaza/</loc>
       
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -60,7 +47,7 @@
     <url>
       <loc>http://www.taska.es/work/</loc>
       
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -75,9 +62,9 @@
     
     
     <url>
-      <loc>http://www.taska.es/work/SingleFamilyII/</loc>
+      <loc>http://www.taska.es/work/WaterSportsCentreGizycko/</loc>
       
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -94,7 +81,7 @@
     <url>
       <loc>http://www.taska.es/work/work-template/</loc>
       
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -109,9 +96,26 @@
     
     
     <url>
-      <loc>http://www.taska.es/</loc>
+      <loc>http://www.taska.es/work/MusicCentreKrakow/</loc>
       
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    <url>
+      <loc>http://www.taska.es/services/</loc>
+      
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -132,7 +136,7 @@
     <url>
       <loc>http://www.taska.es/trabajos/JosefWybickiPlaza/</loc>
       
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -155,9 +159,9 @@
     
     
     <url>
-      <loc>http://www.taska.es/work/MusicCentreKrakow/</loc>
+      <loc>http://www.taska.es/work/SynagogueBialystok/</loc>
       
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -176,7 +180,7 @@
     <url>
       <loc>http://www.taska.es/about/</loc>
       
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -193,7 +197,7 @@
     <url>
       <loc>http://www.taska.es/competitions/</loc>
       
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -206,6 +210,19 @@
     
   
     
+    
+    <url>
+      <loc>http://www.taska.es/work/SingleFamilyII/</loc>
+      
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
     
     
   
@@ -218,7 +235,7 @@
     <url>
       <loc>http://www.taska.es/work/SingleFamilyI/</loc>
       
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -231,12 +248,29 @@
     
   
     
+    
+    
+  
+    
   
     
     
     
   
     
+    
+    <url>
+      <loc>http://www.taska.es/</loc>
+      
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
     
     
   
@@ -245,7 +279,7 @@
     <url>
       <loc>http://www.taska.es/blog/</loc>
       
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
+        <lastmod>2015-02-08T19:17:13+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -258,19 +292,6 @@
     
   
     
-    
-    <url>
-      <loc>http://www.taska.es/services/</loc>
-      
-        <lastmod>2015-02-08T14:33:37+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
     
     
   
