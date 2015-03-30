@@ -4,6 +4,40 @@
     
     
     <url>
+      <loc>http://www.taska.es/_i18n/es/2015/03/10/concentrico/</loc>
+      
+        <lastmod>2015-03-10T00:00:00+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    <url>
+      <loc>http://www.taska.es/_i18n/es/2015/03/03/kielce/</loc>
+      
+        <lastmod>2015-03-03T00:00:00+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    <url>
       <loc>http://www.taska.es/_i18n/es/2011/05/01/serpentina/</loc>
       
         <lastmod>2011-05-01T00:00:00+02:00</lastmod>
@@ -26,7 +60,7 @@
     <url>
       <loc>http://www.taska.es/sobre/</loc>
       
-        <lastmod>2015-02-08T19:16:59+01:00</lastmod>
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -35,6 +69,10 @@
         <priority>0.3</priority>
       
     </url>
+    
+    
+  
+    
     
     
   
@@ -67,7 +105,7 @@
     <url>
       <loc>http://www.taska.es/trabajos/CentroMusicaCracovia/</loc>
       
-        <lastmod>2015-02-08T19:16:59+01:00</lastmod>
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -86,9 +124,26 @@
     
     
     <url>
+      <loc>http://www.taska.es/trabajos/trabajo-plantilla/</loc>
+      
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    <url>
       <loc>http://www.taska.es/trabajos/ViviendaUnifamiliarI/</loc>
       
-        <lastmod>2015-02-08T19:16:59+01:00</lastmod>
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -105,7 +160,7 @@
     <url>
       <loc>http://www.taska.es/trabajos/SinagogaBialystok/</loc>
       
-        <lastmod>2015-02-08T19:16:59+01:00</lastmod>
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -118,6 +173,19 @@
     
   
     
+    
+    <url>
+      <loc>http://www.taska.es/concursos/</loc>
+      
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
     
     
   
@@ -138,9 +206,9 @@
     
     
     <url>
-      <loc>http://www.taska.es/trabajos/trabajo-plantilla/</loc>
+      <loc>http://www.taska.es/trabajos/Concentrico/</loc>
       
-        <lastmod>2015-02-08T19:16:59+01:00</lastmod>
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -161,7 +229,28 @@
     <url>
       <loc>http://www.taska.es/trabajos/</loc>
       
-        <lastmod>2015-02-08T19:16:59+01:00</lastmod>
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+    
+  
+    
+    
+    
+  
+    
+    
+    <url>
+      <loc>http://www.taska.es/trabajos/kielce/</loc>
+      
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -180,7 +269,7 @@
     <url>
       <loc>http://www.taska.es/trabajos/CentroAcuaticoGizycko/</loc>
       
-        <lastmod>2015-02-08T19:16:59+01:00</lastmod>
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -197,7 +286,7 @@
     <url>
       <loc>http://www.taska.es/</loc>
       
-        <lastmod>2015-02-08T19:16:59+01:00</lastmod>
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -214,7 +303,7 @@
     <url>
       <loc>http://www.taska.es/blog/</loc>
       
-        <lastmod>2015-02-08T19:16:59+01:00</lastmod>
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -227,19 +316,6 @@
     
   
     
-    
-    <url>
-      <loc>http://www.taska.es/concursos/</loc>
-      
-        <lastmod>2015-02-08T19:16:59+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
     
     
   
@@ -250,7 +326,7 @@
     <url>
       <loc>http://www.taska.es/trabajos/ViviendaUnifamiliarII/</loc>
       
-        <lastmod>2015-02-08T19:16:59+01:00</lastmod>
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -267,7 +343,7 @@
     <url>
       <loc>http://www.taska.es/servicios/</loc>
       
-        <lastmod>2015-02-08T19:16:59+01:00</lastmod>
+        <lastmod>2015-03-30T13:22:29+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
