@@ -4,13 +4,45 @@
  <title>TASka</title>
  <link href="http://www.taska.es/atom.xml" rel="self"/>
  <link href="http://www.taska.es/"/>
- <updated>2015-03-30T13:22:38+02:00</updated>
+ <updated>2015-04-26T20:07:32+02:00</updated>
  <id>http://www.taska.es</id>
  <author>
    <name>Alicja Scigaczewska</name>
    <email>alicja@taska.es</email>
  </author>
 
+ 
+ <entry>
+   <title>Walking around Concéntrico</title>
+   <link href="http://www.taska.es/_i18n/en/2015/04/01/concentrico-photos/"/>
+   <updated>2015-04-01T00:00:00+02:00</updated>
+   <id>http://www.taska.es/_i18n/en/2015/04/01/concentrico-photos</id>
+   <content type="html">&lt;p&gt;Walking around &lt;a href=&quot;http://www.concentrico.es/&quot;&gt;Concentrico&lt;/a&gt;, the First Design and Architecture Festival in Logroño.&lt;/p&gt;
+
+&lt;div class=&quot;flexslider&quot;&gt;
+	&lt;ul class=&quot;slides&quot;&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/Concentrico/Concentrico-13.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/Concentrico/Concentrico-14.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/Concentrico/Concentrico-15.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/Concentrico/Concentrico-16.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Second place, Concéntrico Pavilion</title>
