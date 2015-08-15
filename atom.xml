@@ -4,13 +4,69 @@
  <title>TASka</title>
  <link href="http://www.taska.es/atom.xml" rel="self"/>
  <link href="http://www.taska.es/"/>
- <updated>2015-08-15T17:50:28+02:00</updated>
+ <updated>2015-08-15T21:32:32+02:00</updated>
  <id>http://www.taska.es</id>
  <author>
    <name>Alicja Scigaczewska</name>
    <email>alicja@taska.es</email>
  </author>
 
+ 
+ <entry>
+   <title>Polideportivo y torre astronómica en Grodzisk Mazowiecki, Polonia.</title>
+   <link href="http://www.taska.es/_i18n/es/2015/08/15/GrodziskMazowiecki/"/>
+   <updated>2015-08-15T00:00:00+02:00</updated>
+   <id>http://www.taska.es/_i18n/es/2015/08/15/GrodziskMazowiecki</id>
+   <content type="html">&lt;p&gt;Propuesta para un &lt;a href=&quot;http://www.taska.es/trabajos/GrodziskMazowiecki/&quot;&gt;polideportivo con torre astronómica y rocódromo&lt;/a&gt; en colaboración con &lt;a href=&quot;http://www.blurarquitectura.com/blurarquitectura-seleccionado-entre-seis-equipos-mas-para-un-complejo-deportivo-cultural-y-su-urbanizacion-en-grodzisk-mazowiecki-polonia/&quot;&gt;Blur Aquitectura&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;flexslider&quot;&gt;
+	&lt;ul class=&quot;slides&quot;&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/GrodziskMazowiecki/GrodziskMazowiecki-1.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/GrodziskMazowiecki/GrodziskMazowiecki-2.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/GrodziskMazowiecki/GrodziskMazowiecki-3.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/GrodziskMazowiecki/GrodziskMazowiecki-4.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/GrodziskMazowiecki/GrodziskMazowiecki-5.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/GrodziskMazowiecki/GrodziskMazowiecki-6.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/GrodziskMazowiecki/GrodziskMazowiecki-7.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/GrodziskMazowiecki/GrodziskMazowiecki-8.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/GrodziskMazowiecki/GrodziskMazowiecki-9.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+		&lt;li&gt;
+		&lt;img src=&quot;/assets/images/GrodziskMazowiecki/GrodziskMazowiecki-10.jpg&quot; /&gt;
+		&lt;/li&gt;
+		
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Mención de honor, Balneario y torres salinas en Busko Zdroj, Polonia.</title>
