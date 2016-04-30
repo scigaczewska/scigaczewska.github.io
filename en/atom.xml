@@ -4,7 +4,7 @@
  <title>TASka</title>
  <link href="http://www.taska.es/atom.xml" rel="self"/>
  <link href="http://www.taska.es/"/>
- <updated>2016-04-30T19:55:50+02:00</updated>
+ <updated>2016-04-30T20:02:25+02:00</updated>
  <id>http://www.taska.es</id>
  <author>
    <name>Alicja Scigaczewska</name>
@@ -19,7 +19,7 @@
    <id>http://www.taska.es/_i18n/en/2016/04/30/plantabaja-sigloxx</id>
    <content type="html">&lt;p&gt;Last Wednesday 27th April I was at &lt;a href=&quot;http://plantabajamilan.com/index.php&quot; title=&quot;Planta Baja Milán&quot;&gt;Planta Baja Milán&lt;/a&gt; speaking about polish architectural history in the XX century, modernim, brutalism and soviet realism.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../../assets/images/misc/planta_baja.jpg&quot; alt=&quot;planta_baja.jpg&quot; title=&quot;Planta Baja&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://taska.es/assets/images/misc/planta_baja.jpg&quot; alt=&quot;planta_baja.jpg&quot; title=&quot;Planta Baja&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Link to the &lt;a href=&quot;https://prezi.com/l50xdhqmwd_s/polonia-siglo-xx/&quot; title=&quot;Polonia siglo xx&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
 
